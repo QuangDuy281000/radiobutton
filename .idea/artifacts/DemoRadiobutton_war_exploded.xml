@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DemoRadiobutton:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoRadiobutton_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DemoRadiobutton/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DemoRadiobutton" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
